@@ -7,12 +7,12 @@ import random
 import openai
 
 # Credentials DISCORD
-TOKEN = 'MTEwMDA5NzQxNDYzNzAyNzM0OA.GgRTH3.cEz_UtwvfZ77-yb4qttH_oVurcFesusCQ-7P6o'
+TOKEN = 'TU_DISCORD_BOT_TOKEN'
 # Credentials LASTFM
-API_KEY = "41e86ee4787f1a444ba944478a89190c"
-API_SECRET = "b2e3be0dccacebf5f16eea75b735d135"
+API_KEY = "LAST_FM_KEY"
+API_SECRET = "LASTFM SECRET"
 # Credentials OPENAI
-openai.api_key = "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"
+openai.api_key = "YOUR OPENAI KEY"
 # OPENAI MODEL
 model_engine = "text-davinci-002"
 
